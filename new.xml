@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   	<name>Katya</name>
+   	<surname>Korsak</surname>
+   	<age>27</age>
+   	<pets>3</pets>
+   	<salary>500</salary>
+</root>
