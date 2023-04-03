@@ -44,7 +44,7 @@ Task:
 Сделать и в Rewrite, и в BreakPoint (можно отключить чтобы не стопило на каждом запросе)
  ⁃ Подменить body в Charles так чтобы в запросе ушла salary которую вы вписали в Postman, а в u_salary_1_5_year цифра вернулась меньше оригинальной из запроса.
  
-[Ex_2 Done](https://https://github.com/KatyaKorsak/Charles-Proxy/commit/c00f21e2abdc1ae120e23ad3a69d40b7b3b93e79) 
+[Ex_2 Done](https://github.com/KatyaKorsak/Charles-Proxy/tree/main/EX_2) 
 
 ==================
 
