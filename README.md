@@ -95,7 +95,8 @@ Task:
 - Сделать через Charles так, чтобы сервер вернул 500 код.
 - Сделать через Charles так, чтобы сервер вернул 405 код.
 
-[Ex_3 Done] (https://github.com/KatyaKorsak/Charles-Proxy/commit/1e642b99cee6f9ac581ed258bf93768645872a7e)
+[Ex_4 Done](https://github.com/KatyaKorsak/Charles-Proxy/commit/1e642b99cee6f9ac581ed258bf93768645872a7e)
+
 ==================
 
 # Ex_5:
