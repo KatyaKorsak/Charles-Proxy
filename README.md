@@ -21,6 +21,7 @@ Task:
 Сделать и в Rewrite, и в BreakPoint (можно отключить чтобы не стопило на каждом запросе)
  ⁃ Подменить url в Charles чтобы в запросе ушло имя которые вы вписали в Postman, а вернулось то, которое вы подставили в Charles.
 
+https://github.com/KatyaKorsak/Charles-Proxy/commit/36fd4c9701feedf273bda4d9468639ff9baa20a6
 ==================
 
 # Ex_2:
