@@ -66,7 +66,7 @@ Task:
 Сделать и в Rewrite, и в BreakPoint (можно отключить чтобы не стопило на каждом запросе)
  ⁃ Подменить параметры запроса в Charles так, чтобы в Postman пришел ответ где другое name, daily_food > weight из запроса, а daily_sleep < weight из запроса.
 
-[Ex_3 Done](https://github.com/KatyaKorsak/Charles-Proxy/tree/main/EX_3)
+[Ex_3 Done](https://github.com/KatyaKorsak/Charles-Proxy/commit/dcd4ca171dcf7f6210afc44967a453fa785e0512)
 
 ==================
 
