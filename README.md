@@ -119,6 +119,8 @@ Task:
  ⁃ Подменить salary в request
  ⁃ Подменить (salary * 2) в response
 
+[Ex_5 Done](https://github.com/KatyaKorsak/Charles-Proxy/commit/ed668eb342e79129dc4e7278eb0d0ea2e7dbb035)
+
 ==================
 
 # Ex_6:
