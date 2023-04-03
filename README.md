@@ -147,3 +147,7 @@ Task:
 Сделать и в Rewrite, и в BreakPoint (можно отключить чтобы не стопило на каждом запросе)
  ⁃ Сделать через Charles так, чтобы в Postman вернулся ответ, в котором qa_salary_after_1.5_year переименовано в qa_salary_after_1.5_month
  ⁃ Сделать так чтобы qa_salary_after_3.5_years было меньше qa_salary_after_12_months в response
+ 
+ [Ex_6 Done](https://github.com/KatyaKorsak/Charles-Proxy/commit/63624758c3f224c806a1df9ec465297cbc0748c0)
+
+ 
